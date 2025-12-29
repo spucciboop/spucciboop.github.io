@@ -4,3 +4,8 @@ font-family:Verdana
 blockquote {
 background-color: #ff7373
 }
+figcaption {
+font-family:Arial
+font-color:#525252
+font-size:12
+}
