@@ -1,12 +1,12 @@
 h1, h2, h3, p, td, aside, li a {
     font-family: Verdana;
     font-size: 11.5;
-    font-color: #d1d1d1;
+    color:#ffffff
 }
 
 figcaption {
     font-family: Arial;
-    font-color: #d1d1d1;
+    color: #ffffff;
     font-size: 9;
 }
 
