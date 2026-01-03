@@ -1,11 +1,12 @@
-h1, h2, h3, p, td, aside, li {
+h1, h2, h3, p, td, aside, li a {
     font-family: Verdana;
     font-size: 11.5;
+    font-color: #d1d1d1;
 }
 
 figcaption {
     font-family: Arial;
-    font-color: #525252;
+    font-color: #d1d1d1;
     font-size: 9;
 }
 
@@ -14,4 +15,5 @@ body {
     max-width:800px;
     line-height:1.8;
     padding:0;
+    background-color: #35383f;
 }
